@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: groove;
+    letter-spacing: 10px;
+    word-spacing: 15px;
+}
+
+a:link {
+    color: #40362D;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8c7161;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #73574D;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.musicpage {
+    background-color: black;
+}
+
+.round {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+p1 {
+    color: white;
+    font-size: 18px;
+}
+
+p2 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.square {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    float: right;
+    justify-content: right;
+    justify-self: right;
+    align-self: right;
+    align-content: right;
+}
+
+.square2 {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    float: right;
+    justify-content: right;
+    justify-self: right;
+    align-self: right;
+    align-content: right;
+}
